@@ -1,0 +1,13 @@
+#bannertopo img{
+	position: relative;
+	top:0;
+	background-image: url('IMG/topoindex.jpg');
+	width: 100%;
+}
+
+#logobranca{
+	position: absolute;
+	top: 70px;
+	left:80px;
+	float: left;
+}
